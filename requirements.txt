@@ -1,0 +1,9 @@
+ - Python
+    - Pandas & NumPy
+    - Scikit-learn
+    - Prophet
+    - Streamlit
+    - Data Visualization (Matplotlib, Seaborn)
+    """)
+
+    st.success("This is a complete end-to-end data science project ready for portfolio submission.")
